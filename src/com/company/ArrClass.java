@@ -16,6 +16,7 @@ public class ArrClass {
         printArr(arr);
     }
 
+
     static void printArr(int[] arr){
         for (int i : arr){
             System.out.println(i);
