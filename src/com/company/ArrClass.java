@@ -2,6 +2,7 @@ package com.company;
 
 public class ArrClass {
     public static void main(String[] args) {
+
         int[] arr = {1, 3, 2, 5, 6, 4};
         int arrLength = arr.length;
         for (int i = 0; i < arrLength; i++){
